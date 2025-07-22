@@ -1,5 +1,6 @@
 Get the user data...
 my self creating a git branch
 to create 
-1). git checkout -b feature1
-2
+1). git checkout -b feature1 // creating branch..
+2 git checkout main  // to go to main branch..
+3)
